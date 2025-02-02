@@ -1,3 +1,13 @@
 ipykernel
 pandas
+TextBlob
+nltk
+spacy
+emoji
+scikit-learn
+gensim
 numpy
+scipy
+smart_open
+langchain
+torch
